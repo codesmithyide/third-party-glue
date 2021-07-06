@@ -3,23 +3,23 @@
 This repository contains bakefile files used to integrate 3rd party code
 into projects using Bakefile as their build system.
 
-# Contents
+## Contents
 
 - include: directory containing the bakefiles.
 
-# Project Status
+## Project Status
 
 This project is intended for use by its author only.
 
-# Usage
+## Usage
 
 No documentation available as of yet.
 
-# Support
+## Support
 
 None.
 
-# License
+## License
 
 Copyright (c) 2021 Xavier Leclercq
 
