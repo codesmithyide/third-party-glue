@@ -1,11 +1,11 @@
-# CoeSmithy ThirdPartyGlue
+# CodeSmithy ThirdPartyGlue
 
 This repository contains bakefile files used to integrate 3rd party code
 into projects using Bakefile as their build system.
 
 # Contents
 
-- include - Directory containing the public headers for the project.
+- include: directory containing the bakefiles.
 
 # Project Status
 
